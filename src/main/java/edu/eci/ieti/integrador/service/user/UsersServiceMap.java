@@ -1,6 +1,5 @@
 package edu.eci.ieti.integrador.service.user;
 
-import edu.eci.ieti.integrador.exception.UserNotFoundException;
 import edu.eci.ieti.integrador.repository.user.User;
 import org.springframework.stereotype.Service;
 

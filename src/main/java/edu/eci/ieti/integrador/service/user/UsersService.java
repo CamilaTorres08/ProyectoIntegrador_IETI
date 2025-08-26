@@ -4,7 +4,6 @@ package edu.eci.ieti.integrador.service.user;
 import edu.eci.ieti.integrador.repository.user.User;
 
 import java.util.List;
-import java.util.Optional;
 
 
 public interface UsersService {
